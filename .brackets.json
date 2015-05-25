@@ -1,0 +1,5 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/openidm/ui/default/enduser/public/openidmui/app/bower_components/jquery/src/outro.js"
+    ]
+}
